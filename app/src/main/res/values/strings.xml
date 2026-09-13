@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="label_weight">Weight (kg)</string>
+    <string name="label_height">Height (cm)</string>
+    <string name="label_gender">Gender</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="label_save_data">Save my data</string>
+    <string name="btn_calculate">Calculate BMI</string>
+    <string name="result_title">Your BMI Result</string>
+    <string name="error_empty_field">This field cannot be empty</string>
+    <string name="error_invalid_number">Enter a valid number</string>
+    <string name="toast_data_saved">Data saved successfully</string>
+    <string name="toast_data_not_saved">Data not saved</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_dashboard">Dashboard</string>
+</resources>
